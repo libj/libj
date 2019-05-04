@@ -1,33 +1,33 @@
 [submodule "exec"]
   path = exec
-  url = ../ext-exec.git
+  url = ../exec.git
 [submodule "io"]
   path = io
-  url = ../ext-io.git
+  url = ../io.git
 [submodule "jci"]
   path = jci
-  url = ../ext-jci.git
+  url = ../jci.git
 [submodule "lang"]
   path = lang
-  url = ../ext-lang.git
+  url = ../lang.git
 [submodule "logging"]
   path = logging
-  url = ../ext-logging.git
+  url = ../logging.git
 [submodule "mail"]
 	path = mail
-	url = ../ext-mail.git
+	url = ../mail.git
 [submodule "math"]
   path = math
-  url = ../ext-math.git
+  url = ../math.git
 [submodule "net"]
   path = net
-  url = ../ext-net.git
+  url = ../net.git
 [submodule "sql"]
   path = sql
-  url = ../ext-sql.git
+  url = ../sql.git
 [submodule "test"]
   path = test
-  url = ../ext-test.git
+  url = ../test.git
 [submodule "util"]
   path = util
-  url = ../ext-util.git
+  url = ../util.git
