@@ -1,5 +1,5 @@
 <!--
-  Copyright (c) 2006 OpenJAX
+  Copyright (c) 2006 LibJ
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -24,42 +24,30 @@
     <artifactId>rootpom</artifactId>
     <version>1.0.3-SNAPSHOT</version>
   </parent>
-  <groupId>org.openjax</groupId>
-  <artifactId>openjax</artifactId>
-  <version>2.5.3-SNAPSHOT</version>
+  <groupId>org.libj</groupId>
+  <artifactId>libj</artifactId>
+  <version>0.9.5-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <url>https://www.openjax.org/</url>
-  <name>OpenJAX</name>
+  <url>https://www.libj.org/</url>
+  <name>LibJ</name>
   <description>
-    OpenJAX is a collection of modules that supplement Java APIs.
+    LibJ is a collection of modules that supplement Java APIs.
   </description>
   <organization>
-    <name>OpenJAX</name>
-    <url>https://www.openjax.org/</url>
+    <name>LibJ</name>
+    <url>https://www.libj.org/</url>
   </organization>
   <modules>
-    <module>logging</module>
-    <module>xml</module>
     <module>test</module>
+    <module>logging</module>
     <module>util</module>
-    <module>measure</module>
-    <module>io</module>
-    <module>security</module>
     <module>net</module>
-    <module>mail</module>
-    <module>maven</module>
-    <module>codegen</module>
-    <module>cdm</module>
-    <module>jci</module>
+    <module>math</module>
+    <module>io</module>
     <module>lang</module>
     <module>exec</module>
-    <module>jaxb</module>
-    <module>json</module>
-    <module>math</module>
+    <module>jci</module>
+    <module>mail</module>
     <module>sql</module>
-    <module>cli</module>
-    <module>expect</module>
-    <module>jetty</module>
-    <module>dbcp</module>
   </modules>
 </project>

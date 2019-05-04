@@ -1,13 +1,13 @@
-# OpenJAX
+# LibJ
 
-> Simple, high-performance, Java API Extensions
+> Simple, convenient, and high-performance supplements to Java Standard libraries
 
-[![Build Status](https://travis-ci.org/openjax/openjax.png)](https://travis-ci.org/openjax/openjax)
-[![Coverage Status](https://coveralls.io/repos/github/openjax/openjax/badge.svg)](https://coveralls.io/github/openjax/openjax)
-[![Javadocs](https://www.javadoc.io/badge/org.openjax/openjax.svg)](https://www.javadoc.io/doc/org.openjax/openjax)
-[![Released Version](https://img.shields.io/maven-central/v/org.openjax/openjax.svg)](https://mvnrepository.com/artifact/org.openjax/openjax)
+[![Build Status](https://travis-ci.org/libj/libj.png)](https://travis-ci.org/libj/libj)
+[![Coverage Status](https://coveralls.io/repos/github/libj/libj/badge.svg)](https://coveralls.io/github/libj/libj)
+[![Javadocs](https://www.javadoc.io/badge/org.libj/libj.svg)](https://www.javadoc.io/doc/org.libj/libj)
+[![Released Version](https://img.shields.io/maven-central/v/org.libj/libj.svg)](https://mvnrepository.com/artifact/org.libj/libj)
 
-OpenJAX is a collection of modules that supplement Java's APIs.
+LibJ is a collection of modules that supplement Java's APIs.
 
 ## Simple
 
@@ -19,24 +19,13 @@ The APIs are implemented to minimize both process and memory complexity.
 
 ## Modules
 
-* **[cdm][cdm]**: _Code Design Model_ An abstraction of the Java programming language, in Java.
-* **[cli][cli]**: Simple API to specify and process arguments on the Command Line Interface.
-* **[codegen][codegen]**: Modules that utilize the [Code Generation][codegen] process to obtain better language cohesion, and faster runtime performance.
-* **[dbcp][dbcp]**: Simple API to describe and initialize a Database Connection Pool in JDBC.
 * **[exec][exec]**: APIs for external process execution and environment management.
-* **[expect][expect]**: A port of [Tcl's Expect][expect2] that provides a Java API to talk to interactive programs according to a script.
 * **[io][io]**: APIs that supplement the `java/io` and `java/nio` packages for I/O operations.
-* **[jaxb][jaxb]**: Modules that supplement JAXB with cohesive and high-performance APIs and tools.
 * **[jci][jci]**: _Java Compiler Interface_ An implementation of an in-memory-compiler.
-* **[jetty][jetty]**: Light-weight extensions to [Jetty][jetty2] that provide simple and convenient wrappers for common use cases.
-* **[json][json]**: APIs for efficiently reading and parsing JSON documents.
 * **[lang][lang]**: APIs that supplement the `java/lang` package with simple and useful extensions.
 * **[logging][logging]**: APIs that provide simple _logging_ extensions to [SLF4J][slf4j].
 * **[math][math]**: APIs that supplement the `java/math` package with higher-performance alternatives, and simple and useful extensions.
-* **[maven][maven]**: APIs that supplement Maven's APIs with cohesive abstractions, and simple and useful extensions.
-* **[measure][measure]**: A nimble datatype abstraction that expresses numerical values with units, supporting automatic unit reduction.
 * **[net][net]**: APIs that supplement the `java/net` package with higher-performance alternatives, and simple and useful extensions.
-* **[security][security]**: APIs that provide simple security abstractions.
 * **[sql][sql]**: APIs that supplement the `java/sql` package with simple and useful extensions.
 * **[test][test]**: APIs that provide simple _test_ extensions to [JUnit][junit], and Maven's [maven-surefire-plugin][maven-surefire-plugin].
 * **[util][util]**: APIs that supplement the `java/util` package with higher-performance alternatives, and simple and useful extensions.
@@ -46,32 +35,18 @@ The APIs are implemented to minimize both process and memory complexity.
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
-[cdm]: /../../../../openjax/cdm
-[cli]: /../../../../openjax/cli
-[codegen]: /../../../../openjax/codegen
-[dbcp]: /../../../../openjax/dbcp
-[exec]: /../../../../openjax/exec
-[expect]: /../../../../openjax/expect
-[io]: /../../../../openjax/io
-[jaxb]: /../../../../openjax/jaxb
-[jci]: /../../../../openjax/jci
-[jetty]: /../../../../openjax/jetty
-[json]: /../../../../openjax/json
-[lang]: /../../../../openjax/lang
-[logging]: /../../../../openjax/logging
-[math]: /../../../../openjax/math
-[maven]: /../../../../openjax/maven
-[measure]: /../../../../openjax/measure
-[net]: /../../../../openjax/net
-[security]: /../../../../openjax/security
-[sql]: /../../../../openjax/sql
-[test]: /../../../../openjax/test
-[util]: /../../../../openjax/util
-[xml]: /../../../../openjax/xml
+[exec]: /../../../../libj/exec
+[io]: /../../../../libj/io
+[jci]: /../../../../libj/jci
+[lang]: /../../../../libj/lang
+[logging]: /../../../../libj/logging
+[math]: /../../../../libj/math
+[net]: /../../../../libj/net
+[sql]: /../../../../libj/sql
+[test]: /../../../../libj/test
+[util]: /../../../../libj/util
+[xml]: /../../../../libj/xml
 
-[codegen]: https://en.wikipedia.org/wiki/Code_generation_(compiler)
-[expect2]: https://en.wikipedia.org/wiki/Expect
-[jetty2]: https://www.eclipse.org/jetty/
 [junit]: https://junit.org
 [maven-surefire-plugin]: https://maven.apache.org/surefire/maven-surefire-plugin/
 [slf4j]: https://www.slf4j.org/
