@@ -1,13 +1,11 @@
 # LibJ
 
-> Simple, convenient, and high-performance supplements to Java Standard libraries
-
 [![Build Status](https://travis-ci.org/libj/libj.png)](https://travis-ci.org/libj/libj)
 [![Coverage Status](https://coveralls.io/repos/github/libj/libj/badge.svg)](https://coveralls.io/github/libj/libj)
 [![Javadocs](https://www.javadoc.io/badge/org.libj/libj.svg)](https://www.javadoc.io/doc/org.libj/libj)
 [![Released Version](https://img.shields.io/maven-central/v/org.libj/libj.svg)](https://mvnrepository.com/artifact/org.libj/libj)
 
-LibJ is a collection of modules that supplement Java's APIs.
+LibJ is a collection of simple, convenient, and high-performance supplements to Java Standard libraries
 
 ## Simple
 
