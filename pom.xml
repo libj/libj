@@ -22,11 +22,11 @@
   <parent>
     <groupId>org.openjax</groupId>
     <artifactId>root</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5</version>
   </parent>
   <groupId>org.libj</groupId>
   <artifactId>libj</artifactId>
-  <version>0.9.7-SNAPSHOT</version>
+  <version>0.9.7</version>
   <packaging>pom</packaging>
   <url>https://www.libj.org/</url>
   <name>LibJ</name>
