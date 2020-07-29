@@ -60,6 +60,7 @@
   <modules>
     <module>test</module>
     <module>logging</module>
+    <module>console</module>
     <module>util</module>
     <module>net</module>
     <module>math</module>

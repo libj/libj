@@ -1,3 +1,6 @@
+[submodule "console"]
+	path = console
+	url = ../console.git
 [submodule "exec"]
   path = exec
   url = ../exec.git
