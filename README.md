@@ -1,9 +1,9 @@
 # LibJ
 
-[![Build Status](https://travis-ci.org/libj/libj.svg?1)](https://travis-ci.org/libj/libj)
-[![Coverage Status](https://coveralls.io/repos/github/libj/libj/badge.svg?1)](https://coveralls.io/github/libj/libj)
-[![Javadocs](https://www.javadoc.io/badge/org.libj/libj.svg?1)](https://www.javadoc.io/doc/org.libj/libj)
-[![Released Version](https://img.shields.io/maven-central/v/org.libj/libj.svg?1)](https://mvnrepository.com/artifact/org.libj/libj)
+[![Build Status](https://travis-ci.org/libj/libj.svg?branch=master)](https://travis-ci.org/libj/libj)
+[![Coverage Status](https://coveralls.io/repos/github/libj/libj/badge.svg)](https://coveralls.io/github/libj/libj)
+[![Javadocs](https://www.javadoc.io/badge/org.libj/libj.svg)](https://www.javadoc.io/doc/org.libj/libj)
+[![Released Version](https://img.shields.io/maven-central/v/org.libj/libj.svg)](https://mvnrepository.com/artifact/org.libj/libj)
 ![Snapshot Version](https://img.shields.io/nexus/s/org.libj/libj?label=maven-snapshot&server=https%3A%2F%2Foss.sonatype.org)
 
 LibJ is a collection of simple, convenient, and high-performance supplements to Java Standard libraries
