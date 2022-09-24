@@ -1,6 +1,6 @@
 # LibJ
 
-[![Build Status](https://travis-ci.org/libj/libj.svg?branch=master)](https://travis-ci.org/libj/libj)
+[![Build Status](https://github.com/libj/libj/actions/workflows/build.yml/badge.svg)](https://github.com/libj/libj/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/libj/libj/badge.svg)](https://coveralls.io/github/libj/libj)
 [![Javadocs](https://www.javadoc.io/badge/org.libj/libj.svg)](https://www.javadoc.io/doc/org.libj/libj)
 [![Released Version](https://img.shields.io/maven-central/v/org.libj/libj.svg)](https://mvnrepository.com/artifact/org.libj/libj)
