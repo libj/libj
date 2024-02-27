@@ -1,6 +1,19 @@
 # Changes by Version
 
-## [v0.9.9-SNAPSHOT](https://github.com/libj/util/compare/ce9e72d71a653e29b190ce740d86fc571aa8d337..HEAD)
+## [v0.9.10-SNAPSHOT](https://github.com/libj/util/compare/5176fe212176644cd0dc654e5c7cb372b541c711..HEAD)
+
+## [v0.9.9](https://github.com/libj/util/compare/ce9e72d71a653e29b190ce740d86fc571aa8d337..5176fe212176644cd0dc654e5c7cb372b541c711) (2024-02-27)
+* Upgrade `org.libj:exec:0.8.12` to `0.8.13`.
+* Upgrade `org.libj:io:0.7.8` to `0.7.9`.
+* Upgrade `org.libj:jci:0.8.6` to `0.8.7`.
+* Upgrade `org.libj:lang:0.8.0` to `0.8.1`.
+* Upgrade `org.libj:logging:0.4.6` to `0.4.7`.
+* Upgrade `org.libj:mail:0.4.4` to `0.4.5`.
+* Upgrade `org.libj:math:0.6.7` to `0.6.8`.
+* Upgrade `org.libj:net:0.5.3` to `0.5.4`.
+* Upgrade `org.libj:sql:0.4.8` to `0.4.9`.
+* Upgrade `org.libj:test:0.7.2` to `0.7.3`.
+* Upgrade `org.libj:util:0.9.0` to `0.9.1`.
 
 ## [v0.9.8](https://github.com/entinae/pom/compare/3401ff4284d87c6b5389c0d088b918be2424b623..ce9e72d71a653e29b190ce740d86fc571aa8d337) (2020-05-23)
 * Upgrade `org.libj:exec:0.8.11` to `0.8.12`.
